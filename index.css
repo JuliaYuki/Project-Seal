@@ -183,6 +183,7 @@ a {
   .gallery__img-wrapper {
     display: block;
     margin: 2rem auto;
+    position: relative;
   }
 
   .gallery__img-wrapper + .gallery__img-wrapper {
